@@ -4,17 +4,23 @@
 
   <li>Клонируйте это репозиторий</li>
 
-  <li>Установите <a href = '[https://conda.io/projects/conda/en/latest/user-guide/install/](https://www.anaconda.com/download)'>Anaconda</a> </li>
+  <li>Установите <a href = 'https://www.anaconda.com/download'>Anaconda</a> </li>
 
   <li>Создайте среду с помощью Python 3.10</li>
 
   <li>Активировать среду</li><br>
 
-  создания и активация среды на выбор пользователя
+  Распакуйте папку репозитория
+  Запустите Anaconda Promt (miniconda3) от имени администратора
+  Перейдите в терминале в распакованную папку
+
+      cd "E:\niiasenv-main"
   
-      conda create --name your_name python=3.10
-      или
-      python -m venv myenv
+  активация среды на выбор пользователя
+  
+      conda env create -f environment.yml
+
+
 
 Требования к установке:
 
