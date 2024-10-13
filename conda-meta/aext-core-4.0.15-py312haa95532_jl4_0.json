@@ -1,0 +1,252 @@
+{
+  "build": "py312haa95532_jl4_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aext-core-server 4.0.15",
+    "jupyterlab >=4.0.8,<5",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-core-4.0.15-py312haa95532_jl4_0",
+  "files": [
+    "Lib/site-packages/aext_core-4.0.15.dist-info/INSTALLER",
+    "Lib/site-packages/aext_core-4.0.15.dist-info/METADATA",
+    "Lib/site-packages/aext_core-4.0.15.dist-info/RECORD",
+    "Lib/site-packages/aext_core-4.0.15.dist-info/REQUESTED",
+    "Lib/site-packages/aext_core-4.0.15.dist-info/WHEEL",
+    "Lib/site-packages/aext_core-4.0.15.dist-info/direct_url.json",
+    "Lib/site-packages/aext_core-4.0.15.dist-info/licenses/LICENSE",
+    "Lib/site-packages/aext_core/__init__.py",
+    "Lib/site-packages/aext_core/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/aext_core/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/aext_core/_version.py",
+    "Lib/site-packages/aext_core/schema/plugin.json",
+    "etc/jupyter/jupyter_notebook_config.d/aext_core.json",
+    "etc/jupyter/jupyter_server_config.d/aext_core.json",
+    "share/jupyter/labextensions/@anaconda/core/install.json",
+    "share/jupyter/labextensions/@anaconda/core/package.json",
+    "share/jupyter/labextensions/@anaconda/core/schemas/@anaconda/core/package.json.orig",
+    "share/jupyter/labextensions/@anaconda/core/schemas/@anaconda/core/plugin.json",
+    "share/jupyter/labextensions/@anaconda/core/static/225.06f21d2d631936d5c8ef.js",
+    "share/jupyter/labextensions/@anaconda/core/static/422.1abdddd9f6d908e41408.js",
+    "share/jupyter/labextensions/@anaconda/core/static/568.22abe5ce9675b7238f66.js",
+    "share/jupyter/labextensions/@anaconda/core/static/589.92f5a91a520257cb602a.js",
+    "share/jupyter/labextensions/@anaconda/core/static/643.9b55855ee78cfd34434b.js",
+    "share/jupyter/labextensions/@anaconda/core/static/994.71a39f63b83d82e27982.js",
+    "share/jupyter/labextensions/@anaconda/core/static/remoteEntry.235a4eb5f08bc399672c.js",
+    "share/jupyter/labextensions/@anaconda/core/static/style.js",
+    "share/jupyter/labextensions/@anaconda/core/static/third-party-licenses.json",
+    ".nonadmin"
+  ],
+  "fn": "aext-core-4.0.15-py312haa95532_jl4_0.conda",
+  "license": "LicenseRef-Proprietary",
+  "link": {
+    "source": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-core-4.0.15-py312haa95532_jl4_0",
+    "type": 1
+  },
+  "md5": "7148b04c3c7355a7f927adb0b27f1f77",
+  "name": "aext-core",
+  "package_tarball_full_path": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-core-4.0.15-py312haa95532_jl4_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/aext_core-4.0.15.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/aext_core-4.0.15.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "a18feb4a8c524434f1b4e635b50e549148d59b14d2faaf201e3148c1575ccd45",
+        "sha256_in_prefix": "a18feb4a8c524434f1b4e635b50e549148d59b14d2faaf201e3148c1575ccd45",
+        "size_in_bytes": 4309
+      },
+      {
+        "_path": "Lib/site-packages/aext_core-4.0.15.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "f4dc319a8f8ec2ce9ad17915a5a3d0751ab7d0eedfaf59ab029b2cf95a685683",
+        "sha256_in_prefix": "f4dc319a8f8ec2ce9ad17915a5a3d0751ab7d0eedfaf59ab029b2cf95a685683",
+        "size_in_bytes": 2946
+      },
+      {
+        "_path": "Lib/site-packages/aext_core-4.0.15.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/aext_core-4.0.15.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "sha256_in_prefix": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "Lib/site-packages/aext_core-4.0.15.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "64a0982c11f6e4c335855559babdcc23f85ee407b13a09465b17cd8b7795ac08",
+        "sha256_in_prefix": "64a0982c11f6e4c335855559babdcc23f85ee407b13a09465b17cd8b7795ac08",
+        "size_in_bytes": 89
+      },
+      {
+        "_path": "Lib/site-packages/aext_core-4.0.15.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "sha256_in_prefix": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "Lib/site-packages/aext_core/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e14608301243abdb235cf4d0913185c23861c834f48ed52f256d282fc51f5f48",
+        "sha256_in_prefix": "e14608301243abdb235cf4d0913185c23861c834f48ed52f256d282fc51f5f48",
+        "size_in_bytes": 586
+      },
+      {
+        "_path": "Lib/site-packages/aext_core/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "428870b2676bec7a263f512b71a298b2c33032f50aa21bb48ad00caf79846c49",
+        "sha256_in_prefix": "428870b2676bec7a263f512b71a298b2c33032f50aa21bb48ad00caf79846c49",
+        "size_in_bytes": 1142
+      },
+      {
+        "_path": "Lib/site-packages/aext_core/__pycache__/_version.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e4419143a4e98dd3ddb2b6040ab994d11da89b20683e75468d392152d495171e",
+        "sha256_in_prefix": "e4419143a4e98dd3ddb2b6040ab994d11da89b20683e75468d392152d495171e",
+        "size_in_bytes": 183
+      },
+      {
+        "_path": "Lib/site-packages/aext_core/_version.py",
+        "path_type": "hardlink",
+        "sha256": "0e6a4e5f1801a74d2d7b2a98f7cbd5adffc1a4c57eeefd50fa717e4a1152a4d1",
+        "sha256_in_prefix": "0e6a4e5f1801a74d2d7b2a98f7cbd5adffc1a4c57eeefd50fa717e4a1152a4d1",
+        "size_in_bytes": 176
+      },
+      {
+        "_path": "Lib/site-packages/aext_core/schema/plugin.json",
+        "path_type": "hardlink",
+        "sha256": "f26a4c341fffa11ed10dad9bb14d78f456599ac5a847338fb6de97c3355b66a5",
+        "sha256_in_prefix": "f26a4c341fffa11ed10dad9bb14d78f456599ac5a847338fb6de97c3355b66a5",
+        "size_in_bytes": 167
+      },
+      {
+        "_path": "etc/jupyter/jupyter_notebook_config.d/aext_core.json",
+        "path_type": "hardlink",
+        "sha256": "6c50e8718f0670b22581575dcd311e8f7343181fdce12d9dae9537eb7f322787",
+        "sha256_in_prefix": "6c50e8718f0670b22581575dcd311e8f7343181fdce12d9dae9537eb7f322787",
+        "size_in_bytes": 86
+      },
+      {
+        "_path": "etc/jupyter/jupyter_server_config.d/aext_core.json",
+        "path_type": "hardlink",
+        "sha256": "b0587fc27fdd0fa236d1b8c8d227a2e648396f76dda135369dd9ae5f3cd88e92",
+        "sha256_in_prefix": "b0587fc27fdd0fa236d1b8c8d227a2e648396f76dda135369dd9ae5f3cd88e92",
+        "size_in_bytes": 84
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/core/install.json",
+        "path_type": "hardlink",
+        "sha256": "c78375bff9f39f89296ac67441904c378b22cb75e9842707d105755a7ff31271",
+        "sha256_in_prefix": "c78375bff9f39f89296ac67441904c378b22cb75e9842707d105755a7ff31271",
+        "size_in_bytes": 179
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/core/package.json",
+        "path_type": "hardlink",
+        "sha256": "9f4377d03c7b4074a730ea3bad1e297ebf80bef86b18383fb0c6eb8a0d004623",
+        "sha256_in_prefix": "9f4377d03c7b4074a730ea3bad1e297ebf80bef86b18383fb0c6eb8a0d004623",
+        "size_in_bytes": 5348
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/core/schemas/@anaconda/core/package.json.orig",
+        "path_type": "hardlink",
+        "sha256": "780ed52732f54213606780a79321bb7de8d519c5193a7187299a60a7afd98142",
+        "sha256_in_prefix": "780ed52732f54213606780a79321bb7de8d519c5193a7187299a60a7afd98142",
+        "size_in_bytes": 5206
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/core/schemas/@anaconda/core/plugin.json",
+        "path_type": "hardlink",
+        "sha256": "f26a4c341fffa11ed10dad9bb14d78f456599ac5a847338fb6de97c3355b66a5",
+        "sha256_in_prefix": "f26a4c341fffa11ed10dad9bb14d78f456599ac5a847338fb6de97c3355b66a5",
+        "size_in_bytes": 167
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/core/static/225.06f21d2d631936d5c8ef.js",
+        "path_type": "hardlink",
+        "sha256": "06f21d2d631936d5c8ef05557a459c9a64ba3ada6f34b8ce03997facc5f01f10",
+        "sha256_in_prefix": "06f21d2d631936d5c8ef05557a459c9a64ba3ada6f34b8ce03997facc5f01f10",
+        "size_in_bytes": 2437
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/core/static/422.1abdddd9f6d908e41408.js",
+        "path_type": "hardlink",
+        "sha256": "1abdddd9f6d908e4140838dc20300e029af3be86752da07164292de52b928d51",
+        "sha256_in_prefix": "1abdddd9f6d908e4140838dc20300e029af3be86752da07164292de52b928d51",
+        "size_in_bytes": 105750
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/core/static/568.22abe5ce9675b7238f66.js",
+        "path_type": "hardlink",
+        "sha256": "22abe5ce9675b7238f667fc1934af034e46a74a04793b774ad753b862d89b0e7",
+        "sha256_in_prefix": "22abe5ce9675b7238f667fc1934af034e46a74a04793b774ad753b862d89b0e7",
+        "size_in_bytes": 425
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/core/static/589.92f5a91a520257cb602a.js",
+        "path_type": "hardlink",
+        "sha256": "92f5a91a520257cb602aa76d1e1606129b1f44105502962cc7eff39e933f9e53",
+        "sha256_in_prefix": "92f5a91a520257cb602aa76d1e1606129b1f44105502962cc7eff39e933f9e53",
+        "size_in_bytes": 1595
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/core/static/643.9b55855ee78cfd34434b.js",
+        "path_type": "hardlink",
+        "sha256": "9b55855ee78cfd34434b03b89af861ce725158917866ffd0544f08b6cb7352f5",
+        "sha256_in_prefix": "9b55855ee78cfd34434b03b89af861ce725158917866ffd0544f08b6cb7352f5",
+        "size_in_bytes": 4006
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/core/static/994.71a39f63b83d82e27982.js",
+        "path_type": "hardlink",
+        "sha256": "71a39f63b83d82e279820f2617ab53de136416eeb7080f0cee82cb9fff7559d7",
+        "sha256_in_prefix": "71a39f63b83d82e279820f2617ab53de136416eeb7080f0cee82cb9fff7559d7",
+        "size_in_bytes": 2437
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/core/static/remoteEntry.235a4eb5f08bc399672c.js",
+        "path_type": "hardlink",
+        "sha256": "235a4eb5f08bc399672cfab1a9ca84426f8fb1438769d1598e60692f69467615",
+        "sha256_in_prefix": "235a4eb5f08bc399672cfab1a9ca84426f8fb1438769d1598e60692f69467615",
+        "size_in_bytes": 7484
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/core/static/style.js",
+        "path_type": "hardlink",
+        "sha256": "16b0e462908aa1631bd407b93a7120a260e432c101a93deeeaaa53a5476a8d22",
+        "sha256_in_prefix": "16b0e462908aa1631bd407b93a7120a260e432c101a93deeeaaa53a5476a8d22",
+        "size_in_bytes": 157
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/core/static/third-party-licenses.json",
+        "path_type": "hardlink",
+        "sha256": "58641cf7cd3efb4a7c0f2824c92331814f0fdfef183a65f6bdfce0f033d8cc02",
+        "sha256_in_prefix": "58641cf7cd3efb4a7c0f2824c92331814f0fdfef183a65f6bdfce0f033d8cc02",
+        "size_in_bytes": 27063
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "215c132c0e81e7672a2592202e54dac67efc94b52736125921da090a228e096a",
+  "size": 56823,
+  "subdir": "win-64",
+  "timestamp": 1717056855000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aext-core-4.0.15-py312haa95532_jl4_0.conda",
+  "version": "4.0.15"
+}

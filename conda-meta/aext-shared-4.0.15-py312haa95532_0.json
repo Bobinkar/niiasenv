@@ -1,0 +1,192 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "anaconda-cloud-auth",
+    "httpx",
+    "jupyterlab >=4.0.8,<5",
+    "jupyterlab_server >=2.19.0,<3",
+    "pyjwt",
+    "python >=3.12,<3.13.0a0",
+    "tornado"
+  ],
+  "extracted_package_dir": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-shared-4.0.15-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/aext_shared-4.0.15.dist-info/INSTALLER",
+    "Lib/site-packages/aext_shared-4.0.15.dist-info/METADATA",
+    "Lib/site-packages/aext_shared-4.0.15.dist-info/RECORD",
+    "Lib/site-packages/aext_shared-4.0.15.dist-info/REQUESTED",
+    "Lib/site-packages/aext_shared-4.0.15.dist-info/WHEEL",
+    "Lib/site-packages/aext_shared-4.0.15.dist-info/direct_url.json",
+    "Lib/site-packages/aext_shared-4.0.15.dist-info/licenses/LICENSE",
+    "Lib/site-packages/aext_shared/__about__.py",
+    "Lib/site-packages/aext_shared/__init__.py",
+    "Lib/site-packages/aext_shared/__pycache__/__about__.cpython-312.pyc",
+    "Lib/site-packages/aext_shared/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/aext_shared/__pycache__/backend_proxy.cpython-312.pyc",
+    "Lib/site-packages/aext_shared/__pycache__/config.cpython-312.pyc",
+    "Lib/site-packages/aext_shared/__pycache__/errors.cpython-312.pyc",
+    "Lib/site-packages/aext_shared/__pycache__/handler.cpython-312.pyc",
+    "Lib/site-packages/aext_shared/backend_proxy.py",
+    "Lib/site-packages/aext_shared/config.py",
+    "Lib/site-packages/aext_shared/errors.py",
+    "Lib/site-packages/aext_shared/handler.py",
+    ".nonadmin"
+  ],
+  "fn": "aext-shared-4.0.15-py312haa95532_0.conda",
+  "license": "LicenseRef-Proprietary",
+  "link": {
+    "source": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-shared-4.0.15-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "4aa9bd87e8d4236a7732fa829ec9734b",
+  "name": "aext-shared",
+  "package_tarball_full_path": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-shared-4.0.15-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/aext_shared-4.0.15.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared-4.0.15.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d84eae679ec7c2a957e208c92c6a948f6a886ec9f8a061f88252572a01953f08",
+        "sha256_in_prefix": "d84eae679ec7c2a957e208c92c6a948f6a886ec9f8a061f88252572a01953f08",
+        "size_in_bytes": 1075
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared-4.0.15.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "00f37e2e4d59926d8168703ac5ec17313ccd80a98dafe4230a049d7a98080378",
+        "sha256_in_prefix": "00f37e2e4d59926d8168703ac5ec17313ccd80a98dafe4230a049d7a98080378",
+        "size_in_bytes": 1409
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared-4.0.15.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared-4.0.15.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "sha256_in_prefix": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared-4.0.15.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "ad75432851d7507a3cc530fae27e1fa613bc94b167f898ab776fc7c6d2f19fff",
+        "sha256_in_prefix": "ad75432851d7507a3cc530fae27e1fa613bc94b167f898ab776fc7c6d2f19fff",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared-4.0.15.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "sha256_in_prefix": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared/__about__.py",
+        "path_type": "hardlink",
+        "sha256": "bfc97aaa57927539519a30ad75066d265a771c8a18bc7a38be5b79e5c1ee1783",
+        "sha256_in_prefix": "bfc97aaa57927539519a30ad75066d265a771c8a18bc7a38be5b79e5c1ee1783",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "037f4c22fd834e8c43a2076fa8a4b8cca84671c182c757f5c651801dfb0b35d8",
+        "sha256_in_prefix": "037f4c22fd834e8c43a2076fa8a4b8cca84671c182c757f5c651801dfb0b35d8",
+        "size_in_bytes": 78
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared/__pycache__/__about__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "aaedd74c1744fe9c2d12cceddea84648e06fba92f684d165f373ced3c68d0ae8",
+        "sha256_in_prefix": "aaedd74c1744fe9c2d12cceddea84648e06fba92f684d165f373ced3c68d0ae8",
+        "size_in_bytes": 166
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "c1cf7ee31e21be28c3f1ec29391281c05245a20d1b7776b90fd0b7814789e147",
+        "sha256_in_prefix": "c1cf7ee31e21be28c3f1ec29391281c05245a20d1b7776b90fd0b7814789e147",
+        "size_in_bytes": 138
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared/__pycache__/backend_proxy.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "f3e50fd43aa19279a087c13dc1b15356e5515d1bb8c5f6fd90682e04c00e8242",
+        "sha256_in_prefix": "f3e50fd43aa19279a087c13dc1b15356e5515d1bb8c5f6fd90682e04c00e8242",
+        "size_in_bytes": 4340
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared/__pycache__/config.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "f2744a2e5e109eabf71076bf424de8c04dd2f34009d53a9e05c090a7a6a60c07",
+        "sha256_in_prefix": "f2744a2e5e109eabf71076bf424de8c04dd2f34009d53a9e05c090a7a6a60c07",
+        "size_in_bytes": 7464
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared/__pycache__/errors.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "6f3eb8edf77c8908f6931230d24f16cb48b7ccedc707465f20be677be212aa17",
+        "sha256_in_prefix": "6f3eb8edf77c8908f6931230d24f16cb48b7ccedc707465f20be677be212aa17",
+        "size_in_bytes": 2633
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared/__pycache__/handler.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8990ad25032037207b1dc881b19dca7bd1fa7ab10d623c73fcc75c7f25ee7507",
+        "sha256_in_prefix": "8990ad25032037207b1dc881b19dca7bd1fa7ab10d623c73fcc75c7f25ee7507",
+        "size_in_bytes": 10017
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared/backend_proxy.py",
+        "path_type": "hardlink",
+        "sha256": "590b794c702b708575fb708d4717e67e37518a548a8968d9bf189664e1513ab8",
+        "sha256_in_prefix": "590b794c702b708575fb708d4717e67e37518a548a8968d9bf189664e1513ab8",
+        "size_in_bytes": 3452
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared/config.py",
+        "path_type": "hardlink",
+        "sha256": "33a05d88fce90ab38898d0b40dc9182f4f4292a34abeec832db7dad0aba45977",
+        "sha256_in_prefix": "33a05d88fce90ab38898d0b40dc9182f4f4292a34abeec832db7dad0aba45977",
+        "size_in_bytes": 6799
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared/errors.py",
+        "path_type": "hardlink",
+        "sha256": "ca39558fdc180f5431ffd13edd5763a1c0b8de928cbb9dfee3efe363ef6d67fe",
+        "sha256_in_prefix": "ca39558fdc180f5431ffd13edd5763a1c0b8de928cbb9dfee3efe363ef6d67fe",
+        "size_in_bytes": 1239
+      },
+      {
+        "_path": "Lib/site-packages/aext_shared/handler.py",
+        "path_type": "hardlink",
+        "sha256": "ac2cd39cf7ffea219f8551f8dc565edbf10eaf3bee2102a5abd274b1c67e68aa",
+        "sha256_in_prefix": "ac2cd39cf7ffea219f8551f8dc565edbf10eaf3bee2102a5abd274b1c67e68aa",
+        "size_in_bytes": 8102
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "87a5fee0d6f8b5e4dd405c226a2d3432fd475d150271aa3ef1c89174b132a018",
+  "size": 27340,
+  "subdir": "win-64",
+  "timestamp": 1716991313000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aext-shared-4.0.15-py312haa95532_0.conda",
+  "version": "4.0.15"
+}

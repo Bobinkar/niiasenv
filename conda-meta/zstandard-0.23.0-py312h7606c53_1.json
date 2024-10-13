@@ -1,0 +1,145 @@
+{
+  "build": "py312h7606c53_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.11",
+    "python >=3.12,<3.13.0a0",
+    "python_abi 3.12.* *_cp312",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139",
+    "zstd >=1.5.6,<1.5.7.0a0",
+    "zstd >=1.5.6,<1.6.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\sanme\\annaconda\\pkgs\\zstandard-0.23.0-py312h7606c53_1",
+  "files": [
+    "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/PKG-INFO",
+    "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/SOURCES.txt",
+    "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/dependency_links.txt",
+    "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/requires.txt",
+    "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/top_level.txt",
+    "Lib/site-packages/zstandard/__init__.py",
+    "Lib/site-packages/zstandard/__init__.pyi",
+    "Lib/site-packages/zstandard/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/zstandard/__pycache__/backend_cffi.cpython-312.pyc",
+    "Lib/site-packages/zstandard/_cffi.cp312-win_amd64.pyd",
+    "Lib/site-packages/zstandard/backend_c.cp312-win_amd64.pyd",
+    "Lib/site-packages/zstandard/backend_cffi.py",
+    "Lib/site-packages/zstandard/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "zstandard-0.23.0-py312h7606c53_1.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\sanme\\annaconda\\pkgs\\zstandard-0.23.0-py312h7606c53_1",
+    "type": 1
+  },
+  "md5": "a92cc3435b2fd6f51463f5a4db5c50b1",
+  "name": "zstandard",
+  "package_tarball_full_path": "C:\\Users\\sanme\\annaconda\\pkgs\\zstandard-0.23.0-py312h7606c53_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "7272fa93b62cc3d7922938a3873cbfb40cb37eccfba92b62dc5c5ccad146c0dd",
+        "sha256_in_prefix": "7272fa93b62cc3d7922938a3873cbfb40cb37eccfba92b62dc5c5ccad146c0dd",
+        "size_in_bytes": 3018
+      },
+      {
+        "_path": "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "2902c4078db8dc1081804d32ed07d8472efcde5971844f7a10624f60a8224299",
+        "sha256_in_prefix": "2902c4078db8dc1081804d32ed07d8472efcde5971844f7a10624f60a8224299",
+        "size_in_bytes": 2739
+      },
+      {
+        "_path": "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "11409f2a84863ef7a7294f76de5f540c867eb619e0070540b5f1213827a5f87b",
+        "sha256_in_prefix": "11409f2a84863ef7a7294f76de5f540c867eb619e0070540b5f1213827a5f87b",
+        "size_in_bytes": 75
+      },
+      {
+        "_path": "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "27ec23f78a4f69d6388a915a6a7ad8065acc6e53927a01184bca3f2dda20ae95",
+        "sha256_in_prefix": "27ec23f78a4f69d6388a915a6a7ad8065acc6e53927a01184bca3f2dda20ae95",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "Lib/site-packages/zstandard/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c7debceb9c9bc6fef625ee1958501e841ce46db5dc696858b2aeb764036b8164",
+        "sha256_in_prefix": "c7debceb9c9bc6fef625ee1958501e841ce46db5dc696858b2aeb764036b8164",
+        "size_in_bytes": 7102
+      },
+      {
+        "_path": "Lib/site-packages/zstandard/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "92f3fa52cf483d7e12b1f839070684dff13bbae135633554a3d853cd851c3470",
+        "sha256_in_prefix": "92f3fa52cf483d7e12b1f839070684dff13bbae135633554a3d853cd851c3470",
+        "size_in_bytes": 13938
+      },
+      {
+        "_path": "Lib/site-packages/zstandard/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "b2f149bda5e2addc11b598296cfdf6d826ccf471125e5f27bdb36f500242084c",
+        "sha256_in_prefix": "b2f149bda5e2addc11b598296cfdf6d826ccf471125e5f27bdb36f500242084c",
+        "size_in_bytes": 6249
+      },
+      {
+        "_path": "Lib/site-packages/zstandard/__pycache__/backend_cffi.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "fb496d624e6a432086b35a4634da2daae67b79f8187cd08e182e8e34efe6acb3",
+        "sha256_in_prefix": "fb496d624e6a432086b35a4634da2daae67b79f8187cd08e182e8e34efe6acb3",
+        "size_in_bytes": 177042
+      },
+      {
+        "_path": "Lib/site-packages/zstandard/_cffi.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "031c3afdf3cb183b6569e56c620d6f9b10181a89b240235b4926dad29e383520",
+        "sha256_in_prefix": "031c3afdf3cb183b6569e56c620d6f9b10181a89b240235b4926dad29e383520",
+        "size_in_bytes": 649728
+      },
+      {
+        "_path": "Lib/site-packages/zstandard/backend_c.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "c8cf9ae75aa8ba0646383d25e7a747d3180e47f799a287bde547a213ae3f3b8d",
+        "sha256_in_prefix": "c8cf9ae75aa8ba0646383d25e7a747d3180e47f799a287bde547a213ae3f3b8d",
+        "size_in_bytes": 82432
+      },
+      {
+        "_path": "Lib/site-packages/zstandard/backend_cffi.py",
+        "path_type": "hardlink",
+        "sha256": "db6751fcd4fcc5bd283a2b94e414bb6250c11269669d47c42b94719744cd4e29",
+        "sha256_in_prefix": "db6751fcd4fcc5bd283a2b94e414bb6250c11269669d47c42b94719744cd4e29",
+        "size_in_bytes": 152504
+      },
+      {
+        "_path": "Lib/site-packages/zstandard/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3e0c718aa18dcac7f080844dbe0aea41a9cea75083019ce02e8a784926239826",
+  "size": 320624,
+  "subdir": "win-64",
+  "timestamp": 1725305934000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/zstandard-0.23.0-py312h7606c53_1.conda",
+  "version": "0.23.0"
+}

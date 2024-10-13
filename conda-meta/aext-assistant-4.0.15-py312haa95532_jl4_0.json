@@ -1,0 +1,396 @@
+{
+  "build": "py312haa95532_jl4_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aext-assistant-server 4.0.15",
+    "jupyter_server >=2.0.1,<3",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-assistant-4.0.15-py312haa95532_jl4_0",
+  "files": [
+    "Lib/site-packages/aext_assistant-4.0.15.dist-info/INSTALLER",
+    "Lib/site-packages/aext_assistant-4.0.15.dist-info/METADATA",
+    "Lib/site-packages/aext_assistant-4.0.15.dist-info/RECORD",
+    "Lib/site-packages/aext_assistant-4.0.15.dist-info/REQUESTED",
+    "Lib/site-packages/aext_assistant-4.0.15.dist-info/WHEEL",
+    "Lib/site-packages/aext_assistant-4.0.15.dist-info/direct_url.json",
+    "Lib/site-packages/aext_assistant-4.0.15.dist-info/licenses/LICENSE",
+    "Lib/site-packages/aext_assistant/__init__.py",
+    "Lib/site-packages/aext_assistant/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/aext_assistant/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/aext_assistant/_version.py",
+    "Lib/site-packages/aext_assistant/schema/plugin.json",
+    "etc/jupyter/jupyter_notebook_config.d/aext_assistant.json",
+    "etc/jupyter/jupyter_server_config.d/aext_assistant.json",
+    "share/jupyter/labextensions/@anaconda/assistant/install.json",
+    "share/jupyter/labextensions/@anaconda/assistant/package.json",
+    "share/jupyter/labextensions/@anaconda/assistant/schemas/@anaconda/assistant/package.json.orig",
+    "share/jupyter/labextensions/@anaconda/assistant/schemas/@anaconda/assistant/plugin.json",
+    "share/jupyter/labextensions/@anaconda/assistant/static/220976705fbec109f43c.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/2ab12bc9c828b7d0441b.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/467.7f4f5cf51542bf095f11.js",
+    "share/jupyter/labextensions/@anaconda/assistant/static/47608eb39ed9fef3239c.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/4b50bf8326f73ec4636c.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/568.12ade2fc5efd4db19999.js",
+    "share/jupyter/labextensions/@anaconda/assistant/static/589.f152418bb6d800e98564.js",
+    "share/jupyter/labextensions/@anaconda/assistant/static/708b7baa59a80d804652.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/723.c00179ef4606cc5ecdc8.js",
+    "share/jupyter/labextensions/@anaconda/assistant/static/72319cf2f5403460dd70.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/756.81b18786c08f1f568f21.js",
+    "share/jupyter/labextensions/@anaconda/assistant/static/756.81b18786c08f1f568f21.js.LICENSE.txt",
+    "share/jupyter/labextensions/@anaconda/assistant/static/8458f8afa67b5691c1fc.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/8789e3e4f2cb727ad4ce.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/8e52a861dc26ff4608c5.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/98023dd780794f5f7f58.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/9f4481b062ed1cf93cd7.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/aa867fe6d7113966e6ed.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/af46bd584de8bb0aabfd.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/b6c261b852a5d2f8dec6.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/b6f9db9e45be20f3c131.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/d12f464576228dc3879b.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/e5555942ce99d0b615e8.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/fe47bb9ab34536443235.woff2",
+    "share/jupyter/labextensions/@anaconda/assistant/static/remoteEntry.83218267865631694ab2.js",
+    "share/jupyter/labextensions/@anaconda/assistant/static/style.js",
+    "share/jupyter/labextensions/@anaconda/assistant/static/third-party-licenses.json",
+    ".nonadmin"
+  ],
+  "fn": "aext-assistant-4.0.15-py312haa95532_jl4_0.conda",
+  "license": "LicenseRef-Proprietary",
+  "link": {
+    "source": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-assistant-4.0.15-py312haa95532_jl4_0",
+    "type": 1
+  },
+  "md5": "ae92438a6bc4853408e062ee2e8045d0",
+  "name": "aext-assistant",
+  "package_tarball_full_path": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-assistant-4.0.15-py312haa95532_jl4_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/aext_assistant-4.0.15.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant-4.0.15.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "75cbf30d687568109475fcf9dcc22fcf71a2346f1008ef5229530a3a617bee30",
+        "sha256_in_prefix": "75cbf30d687568109475fcf9dcc22fcf71a2346f1008ef5229530a3a617bee30",
+        "size_in_bytes": 4369
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant-4.0.15.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a5f66e7d6dd16b810265b31b11aa83b5a7d11f1ed9ec006d0d009a652eae8a75",
+        "sha256_in_prefix": "a5f66e7d6dd16b810265b31b11aa83b5a7d11f1ed9ec006d0d009a652eae8a75",
+        "size_in_bytes": 5753
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant-4.0.15.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant-4.0.15.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "sha256_in_prefix": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant-4.0.15.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "5d07905c26a4418214d72d541b8353dc0353dc73d9279f5bbc142a49c1e8b287",
+        "sha256_in_prefix": "5d07905c26a4418214d72d541b8353dc0353dc73d9279f5bbc142a49c1e8b287",
+        "size_in_bytes": 94
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant-4.0.15.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "sha256_in_prefix": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b3d5da81b6bbe5505828e883b2552d81f1c6d41106d8232470cb17c1b488c017",
+        "sha256_in_prefix": "b3d5da81b6bbe5505828e883b2552d81f1c6d41106d8232470cb17c1b488c017",
+        "size_in_bytes": 611
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "56fc0a2947fcdba3cb21bc41a53f5ea8f422e091fea2a345f9840598b13bd504",
+        "sha256_in_prefix": "56fc0a2947fcdba3cb21bc41a53f5ea8f422e091fea2a345f9840598b13bd504",
+        "size_in_bytes": 1169
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant/__pycache__/_version.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d2e6b9d0baf3aef36f6589dbbbdd9871c61150701b6638a32d53ca76c5d34d25",
+        "sha256_in_prefix": "d2e6b9d0baf3aef36f6589dbbbdd9871c61150701b6638a32d53ca76c5d34d25",
+        "size_in_bytes": 188
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant/_version.py",
+        "path_type": "hardlink",
+        "sha256": "0e6a4e5f1801a74d2d7b2a98f7cbd5adffc1a4c57eeefd50fa717e4a1152a4d1",
+        "sha256_in_prefix": "0e6a4e5f1801a74d2d7b2a98f7cbd5adffc1a4c57eeefd50fa717e4a1152a4d1",
+        "size_in_bytes": 176
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant/schema/plugin.json",
+        "path_type": "hardlink",
+        "sha256": "a4aa4629f706bad20e9ac6d342f33811f767ee3e77706f8b2475967c642f9ccf",
+        "sha256_in_prefix": "a4aa4629f706bad20e9ac6d342f33811f767ee3e77706f8b2475967c642f9ccf",
+        "size_in_bytes": 331
+      },
+      {
+        "_path": "etc/jupyter/jupyter_notebook_config.d/aext_assistant.json",
+        "path_type": "hardlink",
+        "sha256": "ec4db4d7d797d4341a7af4162c2903f77121d7cbd89ab9a4ed507d63ddf3a7dd",
+        "sha256_in_prefix": "ec4db4d7d797d4341a7af4162c2903f77121d7cbd89ab9a4ed507d63ddf3a7dd",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "etc/jupyter/jupyter_server_config.d/aext_assistant.json",
+        "path_type": "hardlink",
+        "sha256": "aa957aa9bd7aad008097617da1fbd4617f7435d9adda15b0c9566e9e2da112f6",
+        "sha256_in_prefix": "aa957aa9bd7aad008097617da1fbd4617f7435d9adda15b0c9566e9e2da112f6",
+        "size_in_bytes": 89
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/install.json",
+        "path_type": "hardlink",
+        "sha256": "151be71883778b4b039e9b7f68011e467e1ee2f085deb4a2decd35c240bc381d",
+        "sha256_in_prefix": "151be71883778b4b039e9b7f68011e467e1ee2f085deb4a2decd35c240bc381d",
+        "size_in_bytes": 189
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/package.json",
+        "path_type": "hardlink",
+        "sha256": "f0c92b76d46c1c8f3b78aae3eacfc516ef4cb74559b8a55a62227d1cd00e20c3",
+        "sha256_in_prefix": "f0c92b76d46c1c8f3b78aae3eacfc516ef4cb74559b8a55a62227d1cd00e20c3",
+        "size_in_bytes": 5383
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/schemas/@anaconda/assistant/package.json.orig",
+        "path_type": "hardlink",
+        "sha256": "3d86d4649d03351d8b2b7a6483663cb50da55d3fc6f1904b95ced2ac82c1df8e",
+        "sha256_in_prefix": "3d86d4649d03351d8b2b7a6483663cb50da55d3fc6f1904b95ced2ac82c1df8e",
+        "size_in_bytes": 5241
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/schemas/@anaconda/assistant/plugin.json",
+        "path_type": "hardlink",
+        "sha256": "a4aa4629f706bad20e9ac6d342f33811f767ee3e77706f8b2475967c642f9ccf",
+        "sha256_in_prefix": "a4aa4629f706bad20e9ac6d342f33811f767ee3e77706f8b2475967c642f9ccf",
+        "size_in_bytes": 331
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/220976705fbec109f43c.woff2",
+        "path_type": "hardlink",
+        "sha256": "220976705fbec109f43c5cfdceca639e99ace7e51f3eb67292b105d3575eb39b",
+        "sha256_in_prefix": "220976705fbec109f43c5cfdceca639e99ace7e51f3eb67292b105d3575eb39b",
+        "size_in_bytes": 111040
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/2ab12bc9c828b7d0441b.woff2",
+        "path_type": "hardlink",
+        "sha256": "2ab12bc9c828b7d0441b8e55141ad9f7bdfb8f1e32178d6216d8d4395b7abf4c",
+        "sha256_in_prefix": "2ab12bc9c828b7d0441b8e55141ad9f7bdfb8f1e32178d6216d8d4395b7abf4c",
+        "size_in_bytes": 106620
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/467.7f4f5cf51542bf095f11.js",
+        "path_type": "hardlink",
+        "sha256": "7f4f5cf51542bf095f11fa6810acd121e729650253a73d1b3600624fdc2751f8",
+        "sha256_in_prefix": "7f4f5cf51542bf095f11fa6810acd121e729650253a73d1b3600624fdc2751f8",
+        "size_in_bytes": 21567
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/47608eb39ed9fef3239c.woff2",
+        "path_type": "hardlink",
+        "sha256": "47608eb39ed9fef3239ccea678a7de838c8e7ee156217c0ecd5a6e1fabfbf3c4",
+        "sha256_in_prefix": "47608eb39ed9fef3239ccea678a7de838c8e7ee156217c0ecd5a6e1fabfbf3c4",
+        "size_in_bytes": 116296
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/4b50bf8326f73ec4636c.woff2",
+        "path_type": "hardlink",
+        "sha256": "4b50bf8326f73ec4636c40bbbb8b2df2023340dd67b1fca1aa5f83fed71259d1",
+        "sha256_in_prefix": "4b50bf8326f73ec4636c40bbbb8b2df2023340dd67b1fca1aa5f83fed71259d1",
+        "size_in_bytes": 115364
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/568.12ade2fc5efd4db19999.js",
+        "path_type": "hardlink",
+        "sha256": "12ade2fc5efd4db19999f7288a6ba6dc214173d0c09bda84d3d7f9fc3d952133",
+        "sha256_in_prefix": "12ade2fc5efd4db19999f7288a6ba6dc214173d0c09bda84d3d7f9fc3d952133",
+        "size_in_bytes": 611
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/589.f152418bb6d800e98564.js",
+        "path_type": "hardlink",
+        "sha256": "f152418bb6d800e985643921872a0d00615afc8aedf74de59925e9371169678d",
+        "sha256_in_prefix": "f152418bb6d800e985643921872a0d00615afc8aedf74de59925e9371169678d",
+        "size_in_bytes": 1609
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/708b7baa59a80d804652.woff2",
+        "path_type": "hardlink",
+        "sha256": "708b7baa59a80d80465229b74f1dcb599d3ee76515a93d304337b92efb964afe",
+        "sha256_in_prefix": "708b7baa59a80d80465229b74f1dcb599d3ee76515a93d304337b92efb964afe",
+        "size_in_bytes": 114576
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/723.c00179ef4606cc5ecdc8.js",
+        "path_type": "hardlink",
+        "sha256": "c00179ef4606cc5ecdc851518c00557804d3ad46ecddf600686591dc9ec1ef7a",
+        "sha256_in_prefix": "c00179ef4606cc5ecdc851518c00557804d3ad46ecddf600686591dc9ec1ef7a",
+        "size_in_bytes": 198500
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/72319cf2f5403460dd70.woff2",
+        "path_type": "hardlink",
+        "sha256": "72319cf2f5403460dd70d02e10fca39a8d6bfde2901c5be3b57fcf8cdd7c26f7",
+        "sha256_in_prefix": "72319cf2f5403460dd70d02e10fca39a8d6bfde2901c5be3b57fcf8cdd7c26f7",
+        "size_in_bytes": 116516
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/756.81b18786c08f1f568f21.js",
+        "path_type": "hardlink",
+        "sha256": "47b67bfc27b24c84264539cafba9cb2a2b46f02cc57cc5a6e9305a2e0be45de7",
+        "sha256_in_prefix": "47b67bfc27b24c84264539cafba9cb2a2b46f02cc57cc5a6e9305a2e0be45de7",
+        "size_in_bytes": 1691773
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/756.81b18786c08f1f568f21.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "5a33020296b8d93641737c4e5563ec5c8d5d259ef9f66692cb859711dd6ca84f",
+        "sha256_in_prefix": "5a33020296b8d93641737c4e5563ec5c8d5d259ef9f66692cb859711dd6ca84f",
+        "size_in_bytes": 1810
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/8458f8afa67b5691c1fc.woff2",
+        "path_type": "hardlink",
+        "sha256": "8458f8afa67b5691c1fcbe51607a2dafb53a9839e48131c608a186b65415d96d",
+        "sha256_in_prefix": "8458f8afa67b5691c1fcbe51607a2dafb53a9839e48131c608a186b65415d96d",
+        "size_in_bytes": 111380
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/8789e3e4f2cb727ad4ce.woff2",
+        "path_type": "hardlink",
+        "sha256": "8789e3e4f2cb727ad4cecbcf8cd289011e56cad1b65690828c67deb76534807b",
+        "sha256_in_prefix": "8789e3e4f2cb727ad4cecbcf8cd289011e56cad1b65690828c67deb76534807b",
+        "size_in_bytes": 118216
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/8e52a861dc26ff4608c5.woff2",
+        "path_type": "hardlink",
+        "sha256": "8e52a861dc26ff4608c50bd7ff89b65d0d6216a2afe7b47ce5d84544811ca400",
+        "sha256_in_prefix": "8e52a861dc26ff4608c50bd7ff89b65d0d6216a2afe7b47ce5d84544811ca400",
+        "size_in_bytes": 111588
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/98023dd780794f5f7f58.woff2",
+        "path_type": "hardlink",
+        "sha256": "98023dd780794f5f7f580bb0e8ca24591bc45f44f31c2c39bfd146c1d104cc4f",
+        "sha256_in_prefix": "98023dd780794f5f7f580bb0e8ca24591bc45f44f31c2c39bfd146c1d104cc4f",
+        "size_in_bytes": 111360
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/9f4481b062ed1cf93cd7.woff2",
+        "path_type": "hardlink",
+        "sha256": "9f4481b062ed1cf93cd72d7e3731e49f28f0db980f0f9b06db170a75316548f1",
+        "sha256_in_prefix": "9f4481b062ed1cf93cd72d7e3731e49f28f0db980f0f9b06db170a75316548f1",
+        "size_in_bytes": 118392
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/aa867fe6d7113966e6ed.woff2",
+        "path_type": "hardlink",
+        "sha256": "aa867fe6d7113966e6edc71acc1d03dc57f26cad1de2621c4ae1525e07966005",
+        "sha256_in_prefix": "aa867fe6d7113966e6edc71acc1d03dc57f26cad1de2621c4ae1525e07966005",
+        "size_in_bytes": 108748
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/af46bd584de8bb0aabfd.woff2",
+        "path_type": "hardlink",
+        "sha256": "af46bd584de8bb0aabfdab5c8651f943b089d09959ba30ae75454689c56f3bd2",
+        "sha256_in_prefix": "af46bd584de8bb0aabfdab5c8651f943b089d09959ba30ae75454689c56f3bd2",
+        "size_in_bytes": 118392
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/b6c261b852a5d2f8dec6.woff2",
+        "path_type": "hardlink",
+        "sha256": "b6c261b852a5d2f8dec6925ea8881d6786b91598866ae4c4b27d931bedc4325e",
+        "sha256_in_prefix": "b6c261b852a5d2f8dec6925ea8881d6786b91598866ae4c4b27d931bedc4325e",
+        "size_in_bytes": 110176
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/b6f9db9e45be20f3c131.woff2",
+        "path_type": "hardlink",
+        "sha256": "b6f9db9e45be20f3c1312c97fbee7ec36b7d8280f8caa4d53c9ba0408cc9997a",
+        "sha256_in_prefix": "b6f9db9e45be20f3c1312c97fbee7ec36b7d8280f8caa4d53c9ba0408cc9997a",
+        "size_in_bytes": 108488
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/d12f464576228dc3879b.woff2",
+        "path_type": "hardlink",
+        "sha256": "d12f464576228dc3879b30775fafe389472bdf021d2d11cea365ccb997ca6c51",
+        "sha256_in_prefix": "d12f464576228dc3879b30775fafe389472bdf021d2d11cea365ccb997ca6c51",
+        "size_in_bytes": 109992
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/e5555942ce99d0b615e8.woff2",
+        "path_type": "hardlink",
+        "sha256": "e5555942ce99d0b615e805c0d0113d7807551dc66227c3b669c5ea640b26ebf4",
+        "sha256_in_prefix": "e5555942ce99d0b615e805c0d0113d7807551dc66227c3b669c5ea640b26ebf4",
+        "size_in_bytes": 113384
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/fe47bb9ab34536443235.woff2",
+        "path_type": "hardlink",
+        "sha256": "fe47bb9ab345364432351e8dcb831cadddcf3013f33d97316723be4a24dea334",
+        "sha256_in_prefix": "fe47bb9ab345364432351e8dcb831cadddcf3013f33d97316723be4a24dea334",
+        "size_in_bytes": 118604
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/remoteEntry.83218267865631694ab2.js",
+        "path_type": "hardlink",
+        "sha256": "83218267865631694ab23eb5f8237f51f2c181406920410c9e4326845c594bb7",
+        "sha256_in_prefix": "83218267865631694ab23eb5f8237f51f2c181406920410c9e4326845c594bb7",
+        "size_in_bytes": 8613
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/style.js",
+        "path_type": "hardlink",
+        "sha256": "539c4da5a02a2c4c3571164259c0e40ff377fd26fc96a15a428a1e6c7a83e81a",
+        "sha256_in_prefix": "539c4da5a02a2c4c3571164259c0e40ff377fd26fc96a15a428a1e6c7a83e81a",
+        "size_in_bytes": 162
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/assistant/static/third-party-licenses.json",
+        "path_type": "hardlink",
+        "sha256": "a430d4b18bc13b39a1954d826d0a71ebff24f32b302646a7579306ff44fae5f1",
+        "sha256_in_prefix": "a430d4b18bc13b39a1954d826d0a71ebff24f32b302646a7579306ff44fae5f1",
+        "size_in_bytes": 70717
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9f889c32801c4a991b675af0a9adff52be18bbb224b85f9dce2fe3907ec975d3",
+  "size": 2755330,
+  "subdir": "win-64",
+  "timestamp": 1717062257000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aext-assistant-4.0.15-py312haa95532_jl4_0.conda",
+  "version": "4.0.15"
+}

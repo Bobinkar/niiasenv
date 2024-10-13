@@ -1,0 +1,430 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aext-shared 4.0.15",
+    "jupyterlab >=4.0.8,<5",
+    "jupyterlab_server >=2.19.0,<3",
+    "python >=3.12,<3.13.0a0",
+    "tornado"
+  ],
+  "extracted_package_dir": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-panels-server-4.0.15-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/aext_panels_server-4.0.15.dist-info/INSTALLER",
+    "Lib/site-packages/aext_panels_server-4.0.15.dist-info/METADATA",
+    "Lib/site-packages/aext_panels_server-4.0.15.dist-info/RECORD",
+    "Lib/site-packages/aext_panels_server-4.0.15.dist-info/REQUESTED",
+    "Lib/site-packages/aext_panels_server-4.0.15.dist-info/WHEEL",
+    "Lib/site-packages/aext_panels_server-4.0.15.dist-info/direct_url.json",
+    "Lib/site-packages/aext_panels_server-4.0.15.dist-info/licenses/LICENSE",
+    "Lib/site-packages/aext_panels_server/__about__.py",
+    "Lib/site-packages/aext_panels_server/__init__.py",
+    "Lib/site-packages/aext_panels_server/__pycache__/__about__.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/__pycache__/api.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/__pycache__/api_v2.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/__pycache__/base_handlers.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/__pycache__/const.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/__pycache__/handlers.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/__pycache__/handlers_helpers.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/__pycache__/logger.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/__pycache__/schemas.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/__pycache__/utils.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/api.py",
+    "Lib/site-packages/aext_panels_server/api_v2.py",
+    "Lib/site-packages/aext_panels_server/base_handlers.py",
+    "Lib/site-packages/aext_panels_server/const.py",
+    "Lib/site-packages/aext_panels_server/exceptions.py",
+    "Lib/site-packages/aext_panels_server/handlers.py",
+    "Lib/site-packages/aext_panels_server/handlers_helpers.py",
+    "Lib/site-packages/aext_panels_server/logger.py",
+    "Lib/site-packages/aext_panels_server/request_schemas/__init__.py",
+    "Lib/site-packages/aext_panels_server/request_schemas/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/request_schemas/__pycache__/notebook_projects_microservice.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/request_schemas/notebook_projects_microservice.py",
+    "Lib/site-packages/aext_panels_server/schemas.py",
+    "Lib/site-packages/aext_panels_server/services/__init__.py",
+    "Lib/site-packages/aext_panels_server/services/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/services/__pycache__/deployment_microservice.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/services/__pycache__/panel.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/services/__pycache__/project.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/services/__pycache__/project_index.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/services/deployment_microservice.py",
+    "Lib/site-packages/aext_panels_server/services/domain_corpus/__pycache__/adjectives.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/services/domain_corpus/__pycache__/snakes.cpython-312.pyc",
+    "Lib/site-packages/aext_panels_server/services/domain_corpus/adjectives.py",
+    "Lib/site-packages/aext_panels_server/services/domain_corpus/snakes.py",
+    "Lib/site-packages/aext_panels_server/services/panel.py",
+    "Lib/site-packages/aext_panels_server/services/project.py",
+    "Lib/site-packages/aext_panels_server/services/project_index.py",
+    "Lib/site-packages/aext_panels_server/utils.py",
+    ".nonadmin"
+  ],
+  "fn": "aext-panels-server-4.0.15-py312haa95532_0.conda",
+  "license": "LicenseRef-Proprietary",
+  "link": {
+    "source": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-panels-server-4.0.15-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "96241e9ce9fd703dcd0878b2d7267569",
+  "name": "aext-panels-server",
+  "package_tarball_full_path": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-panels-server-4.0.15-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/aext_panels_server-4.0.15.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server-4.0.15.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "1e55a56de4cee7ef657caddff05ff16ff6ad4c4306e3d6fd3e65bc2c4cce6c16",
+        "sha256_in_prefix": "1e55a56de4cee7ef657caddff05ff16ff6ad4c4306e3d6fd3e65bc2c4cce6c16",
+        "size_in_bytes": 950
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server-4.0.15.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8dc662002e9df36fa83016554ddaeb3b2003cf5c1de655b305da970e5703aa35",
+        "sha256_in_prefix": "8dc662002e9df36fa83016554ddaeb3b2003cf5c1de655b305da970e5703aa35",
+        "size_in_bytes": 4063
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server-4.0.15.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server-4.0.15.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "sha256_in_prefix": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server-4.0.15.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d2c6e577bbb594c30f486f25fb673a65567cf9e82aa050327e928c2d5b62ff1b",
+        "sha256_in_prefix": "d2c6e577bbb594c30f486f25fb673a65567cf9e82aa050327e928c2d5b62ff1b",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server-4.0.15.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "sha256_in_prefix": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__about__.py",
+        "path_type": "hardlink",
+        "sha256": "bfc97aaa57927539519a30ad75066d265a771c8a18bc7a38be5b79e5c1ee1783",
+        "sha256_in_prefix": "bfc97aaa57927539519a30ad75066d265a771c8a18bc7a38be5b79e5c1ee1783",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6cd2fe16186b10d1be610bcdc4f4b79c688ce30715783f72e44a2c5b902a37e1",
+        "sha256_in_prefix": "6cd2fe16186b10d1be610bcdc4f4b79c688ce30715783f72e44a2c5b902a37e1",
+        "size_in_bytes": 51
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__pycache__/__about__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "eee5c8dedab385e5199a5e37d7cef812c211513052c648814b35366c9504b1a4",
+        "sha256_in_prefix": "eee5c8dedab385e5199a5e37d7cef812c211513052c648814b35366c9504b1a4",
+        "size_in_bytes": 173
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "fd66ae85068270dd4f3ec0fc2bb30d8320f47b644859177827f3b27e4e9f2b5a",
+        "sha256_in_prefix": "fd66ae85068270dd4f3ec0fc2bb30d8320f47b644859177827f3b27e4e9f2b5a",
+        "size_in_bytes": 210
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__pycache__/api.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "21f0cc2345b74d4299aa566ac8f65ab41d99d1e34090702ac40f0566c021a764",
+        "sha256_in_prefix": "21f0cc2345b74d4299aa566ac8f65ab41d99d1e34090702ac40f0566c021a764",
+        "size_in_bytes": 33075
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__pycache__/api_v2.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8784d382048d8d28a8b68d98ee511745a2d7a4d377c00bfe56ab1270f1f798da",
+        "sha256_in_prefix": "8784d382048d8d28a8b68d98ee511745a2d7a4d377c00bfe56ab1270f1f798da",
+        "size_in_bytes": 5108
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__pycache__/base_handlers.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7fb6b139f38606ab1440e3fc5aba044fceac83fa0032dd77e084576e25dd6427",
+        "sha256_in_prefix": "7fb6b139f38606ab1440e3fc5aba044fceac83fa0032dd77e084576e25dd6427",
+        "size_in_bytes": 10590
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__pycache__/const.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "9531f4f3fbc740bd42a05df98dc4230bf61c0b1794f98c92490abcf57aeffebf",
+        "sha256_in_prefix": "9531f4f3fbc740bd42a05df98dc4230bf61c0b1794f98c92490abcf57aeffebf",
+        "size_in_bytes": 2864
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__pycache__/exceptions.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "111c3dfc0eba1a47bb6861304f4385b513e8bff76e59c4213d2da6b75e19cb9d",
+        "sha256_in_prefix": "111c3dfc0eba1a47bb6861304f4385b513e8bff76e59c4213d2da6b75e19cb9d",
+        "size_in_bytes": 5803
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__pycache__/handlers.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1f3aadc77d95cb0f03764e7e98b2685363475ae8e6cb217144ffd8ef8387f1b1",
+        "sha256_in_prefix": "1f3aadc77d95cb0f03764e7e98b2685363475ae8e6cb217144ffd8ef8387f1b1",
+        "size_in_bytes": 30463
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__pycache__/handlers_helpers.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "af6abb75953b9d7c9ae57a4b3d53691d8a395db395f1ca369a06febceb44fe9b",
+        "sha256_in_prefix": "af6abb75953b9d7c9ae57a4b3d53691d8a395db395f1ca369a06febceb44fe9b",
+        "size_in_bytes": 827
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__pycache__/logger.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "be39d7471dccf3fa97ba319b7473acfd673cbc08b382ca6d6c80ef100ef5baf2",
+        "sha256_in_prefix": "be39d7471dccf3fa97ba319b7473acfd673cbc08b382ca6d6c80ef100ef5baf2",
+        "size_in_bytes": 1886
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__pycache__/schemas.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "6ba83dbc53d14bdfab27f7bccf369377318bd6c38d1596aad3f14c88d55659d8",
+        "sha256_in_prefix": "6ba83dbc53d14bdfab27f7bccf369377318bd6c38d1596aad3f14c88d55659d8",
+        "size_in_bytes": 9425
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/__pycache__/utils.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "16a75fa817603dc37bd051357709d74906308eb176291624c4da3d9f430500ab",
+        "sha256_in_prefix": "16a75fa817603dc37bd051357709d74906308eb176291624c4da3d9f430500ab",
+        "size_in_bytes": 15493
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/api.py",
+        "path_type": "hardlink",
+        "sha256": "376265e95f03ea2572e1fb312793224da9ff22d103e0a528c0d29e3d567a52f4",
+        "sha256_in_prefix": "376265e95f03ea2572e1fb312793224da9ff22d103e0a528c0d29e3d567a52f4",
+        "size_in_bytes": 25613
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/api_v2.py",
+        "path_type": "hardlink",
+        "sha256": "8662feeae075d23c8df7b5bd3efe03049a6ba11872d45951435552bdced3c247",
+        "sha256_in_prefix": "8662feeae075d23c8df7b5bd3efe03049a6ba11872d45951435552bdced3c247",
+        "size_in_bytes": 3863
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/base_handlers.py",
+        "path_type": "hardlink",
+        "sha256": "9f81988b8e1388a7e2b1d42e7bd5e9ffc57e5aaae83e57d1d2bbe93182cdd934",
+        "sha256_in_prefix": "9f81988b8e1388a7e2b1d42e7bd5e9ffc57e5aaae83e57d1d2bbe93182cdd934",
+        "size_in_bytes": 6957
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/const.py",
+        "path_type": "hardlink",
+        "sha256": "c364e8e8a86b2fe75119f588ba754ec809651abddc9e150324d82b37688d7f77",
+        "sha256_in_prefix": "c364e8e8a86b2fe75119f588ba754ec809651abddc9e150324d82b37688d7f77",
+        "size_in_bytes": 1898
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "326223dbdc62e22aec8da2645641a3eedecf756b373fa8170dbb54b1a40ac32c",
+        "sha256_in_prefix": "326223dbdc62e22aec8da2645641a3eedecf756b373fa8170dbb54b1a40ac32c",
+        "size_in_bytes": 3081
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/handlers.py",
+        "path_type": "hardlink",
+        "sha256": "eec4466e5d8a81aa54739c2ff619e7007bf3ff373c9e90701d12729c0546bad0",
+        "sha256_in_prefix": "eec4466e5d8a81aa54739c2ff619e7007bf3ff373c9e90701d12729c0546bad0",
+        "size_in_bytes": 21804
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/handlers_helpers.py",
+        "path_type": "hardlink",
+        "sha256": "972fb04443bc8f7dd78179c3d8b47a0a354ba4f602a68a589a1f52541860bdf4",
+        "sha256_in_prefix": "972fb04443bc8f7dd78179c3d8b47a0a354ba4f602a68a589a1f52541860bdf4",
+        "size_in_bytes": 471
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/logger.py",
+        "path_type": "hardlink",
+        "sha256": "422cb6b552f5525b55c217ef94df41b9c3bf5017ce31ff250d74fc25a613c124",
+        "sha256_in_prefix": "422cb6b552f5525b55c217ef94df41b9c3bf5017ce31ff250d74fc25a613c124",
+        "size_in_bytes": 719
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/request_schemas/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/request_schemas/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "44613eb7691d3a6ab450c0ace8ee280faf39166de7bb2243da39e12990bb45f5",
+        "sha256_in_prefix": "44613eb7691d3a6ab450c0ace8ee280faf39166de7bb2243da39e12990bb45f5",
+        "size_in_bytes": 161
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/request_schemas/__pycache__/notebook_projects_microservice.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7db890c80e8d98265d762c02b01def546ba4dcbf501ba4fbf06df5cba47b390f",
+        "sha256_in_prefix": "7db890c80e8d98265d762c02b01def546ba4dcbf501ba4fbf06df5cba47b390f",
+        "size_in_bytes": 1303
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/request_schemas/notebook_projects_microservice.py",
+        "path_type": "hardlink",
+        "sha256": "99d14d074901a457a1d7004c39b215ce53679b1f2807514c2e40811f9e27835e",
+        "sha256_in_prefix": "99d14d074901a457a1d7004c39b215ce53679b1f2807514c2e40811f9e27835e",
+        "size_in_bytes": 516
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/schemas.py",
+        "path_type": "hardlink",
+        "sha256": "bbbd285fc4a5147687976bead248d4ebab8db55c94086706559dcd784375dbe5",
+        "sha256_in_prefix": "bbbd285fc4a5147687976bead248d4ebab8db55c94086706559dcd784375dbe5",
+        "size_in_bytes": 5329
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "cb86a9e8b65fddb98aaead5e06264ffef100a76674980d6d7e1d6124ac514dbb",
+        "sha256_in_prefix": "cb86a9e8b65fddb98aaead5e06264ffef100a76674980d6d7e1d6124ac514dbb",
+        "size_in_bytes": 154
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/__pycache__/deployment_microservice.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "0e7c01ee6d09d68d318093929008a1241bad022cbba96e046272a987acb7436e",
+        "sha256_in_prefix": "0e7c01ee6d09d68d318093929008a1241bad022cbba96e046272a987acb7436e",
+        "size_in_bytes": 18468
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/__pycache__/panel.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8ac434c61dbc6ecf08385ba77ce2adc88065c93acf78a7eba3b91f843be45c2b",
+        "sha256_in_prefix": "8ac434c61dbc6ecf08385ba77ce2adc88065c93acf78a7eba3b91f843be45c2b",
+        "size_in_bytes": 3222
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/__pycache__/project.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "91d0c8ee1eeea4b13c736e7ac5fb0055983255382161f508eabf693db1dbb12a",
+        "sha256_in_prefix": "91d0c8ee1eeea4b13c736e7ac5fb0055983255382161f508eabf693db1dbb12a",
+        "size_in_bytes": 16243
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/__pycache__/project_index.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "13c995c53473651871aeb28479da74f53c8ae80d75d93a7452b0d32a156db81f",
+        "sha256_in_prefix": "13c995c53473651871aeb28479da74f53c8ae80d75d93a7452b0d32a156db81f",
+        "size_in_bytes": 8593
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/deployment_microservice.py",
+        "path_type": "hardlink",
+        "sha256": "4ff2bc7d3ac15858b047186f9118aed70a77f0a60f9e48c882cd64a5b81d1497",
+        "sha256_in_prefix": "4ff2bc7d3ac15858b047186f9118aed70a77f0a60f9e48c882cd64a5b81d1497",
+        "size_in_bytes": 14707
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/domain_corpus/__pycache__/adjectives.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "f41a14615104d0f6b8aa3054c5ffd937c16dd32d16c0147846d4d9bf91778d39",
+        "sha256_in_prefix": "f41a14615104d0f6b8aa3054c5ffd937c16dd32d16c0147846d4d9bf91778d39",
+        "size_in_bytes": 1921
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/domain_corpus/__pycache__/snakes.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d90e0bc4c26142a72c0c2bff77fb42a2de324c3657510e53b9882c07db1206de",
+        "sha256_in_prefix": "d90e0bc4c26142a72c0c2bff77fb42a2de324c3657510e53b9882c07db1206de",
+        "size_in_bytes": 11915
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/domain_corpus/adjectives.py",
+        "path_type": "hardlink",
+        "sha256": "ddd367083893c359153d548ca3b8d35ea303355fee24d02fae8449963f51e08c",
+        "sha256_in_prefix": "ddd367083893c359153d548ca3b8d35ea303355fee24d02fae8449963f51e08c",
+        "size_in_bytes": 2724
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/domain_corpus/snakes.py",
+        "path_type": "hardlink",
+        "sha256": "18751d31fe6ba87e4cc26bb25b5c990109844a50a9f8d92709ceea036ab5180d",
+        "sha256_in_prefix": "18751d31fe6ba87e4cc26bb25b5c990109844a50a9f8d92709ceea036ab5180d",
+        "size_in_bytes": 15549
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/panel.py",
+        "path_type": "hardlink",
+        "sha256": "5ef99c216ac0fce7d2ee9f63da31e97ccce6551c785941398fe380aba177478e",
+        "sha256_in_prefix": "5ef99c216ac0fce7d2ee9f63da31e97ccce6551c785941398fe380aba177478e",
+        "size_in_bytes": 2814
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/project.py",
+        "path_type": "hardlink",
+        "sha256": "302415937d277b1aeee80222f6e47a6907f22c168812d1dba36834f1c52e9c0a",
+        "sha256_in_prefix": "302415937d277b1aeee80222f6e47a6907f22c168812d1dba36834f1c52e9c0a",
+        "size_in_bytes": 13404
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/services/project_index.py",
+        "path_type": "hardlink",
+        "sha256": "8a1dab67f5d3e3fb4ab5359f486197f65a10255c97316165db9c52706c28150c",
+        "sha256_in_prefix": "8a1dab67f5d3e3fb4ab5359f486197f65a10255c97316165db9c52706c28150c",
+        "size_in_bytes": 6635
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels_server/utils.py",
+        "path_type": "hardlink",
+        "sha256": "35ebded9d393e4e37e554ac8faeef7497f674f8d065635da9225f080a50e1f92",
+        "sha256_in_prefix": "35ebded9d393e4e37e554ac8faeef7497f674f8d065635da9225f080a50e1f92",
+        "size_in_bytes": 10967
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "73b8e4d364e9b0b088353cfeec2bd3c791d66ecc19e72dab8cb07121c340c507",
+  "size": 103393,
+  "subdir": "win-64",
+  "timestamp": 1717060803000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aext-panels-server-4.0.15-py312haa95532_0.conda",
+  "version": "4.0.15"
+}

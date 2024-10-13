@@ -1,0 +1,42 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aext-assistant",
+    "aext-core >=4,<5",
+    "aext-panels >=4,<5",
+    "aext-panels-server >=4,<5",
+    "aext-share-notebook >=4,<5",
+    "aext-share-notebook-server >=4,<5",
+    "aext-shared >=4,<5",
+    "anaconda-cloud-auth >=0.1.3",
+    "jupyterlab >=4.0.8,<5",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\sanme\\annaconda\\pkgs\\anaconda-toolbox-4.0.15-py312haa95532_0",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "anaconda-toolbox-4.0.15-py312haa95532_0.conda",
+  "license": "LicenseRef-Proprietary",
+  "link": {
+    "source": "C:\\Users\\sanme\\annaconda\\pkgs\\anaconda-toolbox-4.0.15-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "afa84d18b32dd8bce009063b93e57d99",
+  "name": "anaconda-toolbox",
+  "package_tarball_full_path": "C:\\Users\\sanme\\annaconda\\pkgs\\anaconda-toolbox-4.0.15-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "anaconda-toolbox",
+  "sha256": "d662f744cc6f0cb733f7a70f54fa0e10bbb0f09be474863b02d847d9577bbe34",
+  "size": 4132,
+  "subdir": "win-64",
+  "timestamp": 1717064802000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/anaconda-toolbox-4.0.15-py312haa95532_0.conda",
+  "version": "4.0.15"
+}

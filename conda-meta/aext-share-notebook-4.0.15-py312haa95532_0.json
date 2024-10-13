@@ -1,0 +1,276 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aext-share-notebook-server 4.0.15",
+    "jupyter_server >=2.0.1,<3",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-share-notebook-4.0.15-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/INSTALLER",
+    "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/METADATA",
+    "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/RECORD",
+    "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/REQUESTED",
+    "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/WHEEL",
+    "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/direct_url.json",
+    "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/licenses/LICENSE",
+    "Lib/site-packages/aext_share_notebook/__init__.py",
+    "Lib/site-packages/aext_share_notebook/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/aext_share_notebook/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/aext_share_notebook/_version.py",
+    "Lib/site-packages/aext_share_notebook/schema/plugin.json",
+    "etc/jupyter/jupyter_notebook_config.d/aext_panels.json",
+    "etc/jupyter/jupyter_server_config.d/aext_share_notebook.json",
+    "share/jupyter/labextensions/@anaconda/share_notebook/install.json",
+    "share/jupyter/labextensions/@anaconda/share_notebook/package.json",
+    "share/jupyter/labextensions/@anaconda/share_notebook/schemas/@anaconda/share_notebook/package.json.orig",
+    "share/jupyter/labextensions/@anaconda/share_notebook/schemas/@anaconda/share_notebook/plugin.json",
+    "share/jupyter/labextensions/@anaconda/share_notebook/static/305.d494201b822c1dfe7e5a.js",
+    "share/jupyter/labextensions/@anaconda/share_notebook/static/380.b5860d9c517548198b77.js",
+    "share/jupyter/labextensions/@anaconda/share_notebook/static/406.c8f76560a64780d746b2.js",
+    "share/jupyter/labextensions/@anaconda/share_notebook/static/4a772478a65263896de7.ttf",
+    "share/jupyter/labextensions/@anaconda/share_notebook/static/568.28b24309af35165d1195.js",
+    "share/jupyter/labextensions/@anaconda/share_notebook/static/589.795710b6e24184cb0e10.js",
+    "share/jupyter/labextensions/@anaconda/share_notebook/static/763.05e5c3ada1348ef54eeb.js",
+    "share/jupyter/labextensions/@anaconda/share_notebook/static/97.20550629b214f3cbcabd.js",
+    "share/jupyter/labextensions/@anaconda/share_notebook/static/97.20550629b214f3cbcabd.js.LICENSE.txt",
+    "share/jupyter/labextensions/@anaconda/share_notebook/static/remoteEntry.ec403c961f3e6d85e7bc.js",
+    "share/jupyter/labextensions/@anaconda/share_notebook/static/style.js",
+    "share/jupyter/labextensions/@anaconda/share_notebook/static/third-party-licenses.json",
+    ".nonadmin"
+  ],
+  "fn": "aext-share-notebook-4.0.15-py312haa95532_0.conda",
+  "license": "LicenseRef-Proprietary",
+  "link": {
+    "source": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-share-notebook-4.0.15-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "8a528ae1f05b4511e87367d9561455cd",
+  "name": "aext-share-notebook",
+  "package_tarball_full_path": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-share-notebook-4.0.15-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4b7f43bbe68c9fba05169e2278843edf91d794cdb0d7732d7edb75612e4f1717",
+        "sha256_in_prefix": "4b7f43bbe68c9fba05169e2278843edf91d794cdb0d7732d7edb75612e4f1717",
+        "size_in_bytes": 4429
+      },
+      {
+        "_path": "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a794978dc5f5a983192c2baebfdd795d9af1f467d11fd2140f055992296a027a",
+        "sha256_in_prefix": "a794978dc5f5a983192c2baebfdd795d9af1f467d11fd2140f055992296a027a",
+        "size_in_bytes": 3690
+      },
+      {
+        "_path": "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "sha256_in_prefix": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a25feb28461722bf6da6ca5ce04f2118ef04feb89f974ba7412d2bdc9a9afa81",
+        "sha256_in_prefix": "a25feb28461722bf6da6ca5ce04f2118ef04feb89f974ba7412d2bdc9a9afa81",
+        "size_in_bytes": 99
+      },
+      {
+        "_path": "Lib/site-packages/aext_share_notebook-4.0.15.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "sha256_in_prefix": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "Lib/site-packages/aext_share_notebook/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a0b8c88c3507d58c937ef74a966659919b5fa5d807119d66d06326453d707399",
+        "sha256_in_prefix": "a0b8c88c3507d58c937ef74a966659919b5fa5d807119d66d06326453d707399",
+        "size_in_bytes": 638
+      },
+      {
+        "_path": "Lib/site-packages/aext_share_notebook/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "05e0651dee78cb3abb3c8b82521d2c144490d3f792cb029afe2a0c450143f1c5",
+        "sha256_in_prefix": "05e0651dee78cb3abb3c8b82521d2c144490d3f792cb029afe2a0c450143f1c5",
+        "size_in_bytes": 1180
+      },
+      {
+        "_path": "Lib/site-packages/aext_share_notebook/__pycache__/_version.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e473b8138e99d61696fafa949f8dfa67578762b5e7b04837ff938fdc8778074c",
+        "sha256_in_prefix": "e473b8138e99d61696fafa949f8dfa67578762b5e7b04837ff938fdc8778074c",
+        "size_in_bytes": 193
+      },
+      {
+        "_path": "Lib/site-packages/aext_share_notebook/_version.py",
+        "path_type": "hardlink",
+        "sha256": "0e6a4e5f1801a74d2d7b2a98f7cbd5adffc1a4c57eeefd50fa717e4a1152a4d1",
+        "sha256_in_prefix": "0e6a4e5f1801a74d2d7b2a98f7cbd5adffc1a4c57eeefd50fa717e4a1152a4d1",
+        "size_in_bytes": 176
+      },
+      {
+        "_path": "Lib/site-packages/aext_share_notebook/schema/plugin.json",
+        "path_type": "hardlink",
+        "sha256": "eead7c9a22fcbf470ba7d62c6b6409c482f47dfc573956788ee6cd67ae8374b1",
+        "sha256_in_prefix": "eead7c9a22fcbf470ba7d62c6b6409c482f47dfc573956788ee6cd67ae8374b1",
+        "size_in_bytes": 207
+      },
+      {
+        "_path": "etc/jupyter/jupyter_notebook_config.d/aext_panels.json",
+        "path_type": "hardlink",
+        "sha256": "f7f942a019b0f133b2a98a6d8cd4227660d4d2e5a0e66f9959b6d836c0c3d828",
+        "sha256_in_prefix": "f7f942a019b0f133b2a98a6d8cd4227660d4d2e5a0e66f9959b6d836c0c3d828",
+        "size_in_bytes": 96
+      },
+      {
+        "_path": "etc/jupyter/jupyter_server_config.d/aext_share_notebook.json",
+        "path_type": "hardlink",
+        "sha256": "25322f78c352ba384cde1915819337e3d1177f4c1a9ded195b97c501575a36e4",
+        "sha256_in_prefix": "25322f78c352ba384cde1915819337e3d1177f4c1a9ded195b97c501575a36e4",
+        "size_in_bytes": 94
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/install.json",
+        "path_type": "hardlink",
+        "sha256": "07db7321acce67be9378e2ce894c006de6af4807c05355dd1291f9cf76152c25",
+        "sha256_in_prefix": "07db7321acce67be9378e2ce894c006de6af4807c05355dd1291f9cf76152c25",
+        "size_in_bytes": 199
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/package.json",
+        "path_type": "hardlink",
+        "sha256": "e3472dc05c3f12db8f47b1020162b76385c3a3a58753f23469c49a3e3eef2277",
+        "sha256_in_prefix": "e3472dc05c3f12db8f47b1020162b76385c3a3a58753f23469c49a3e3eef2277",
+        "size_in_bytes": 5418
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/schemas/@anaconda/share_notebook/package.json.orig",
+        "path_type": "hardlink",
+        "sha256": "e1a73ae626f4c7bbc823d5d2dbcaabba84b4e81705938bdf6811a3e6cca81e8f",
+        "sha256_in_prefix": "e1a73ae626f4c7bbc823d5d2dbcaabba84b4e81705938bdf6811a3e6cca81e8f",
+        "size_in_bytes": 5276
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/schemas/@anaconda/share_notebook/plugin.json",
+        "path_type": "hardlink",
+        "sha256": "eead7c9a22fcbf470ba7d62c6b6409c482f47dfc573956788ee6cd67ae8374b1",
+        "sha256_in_prefix": "eead7c9a22fcbf470ba7d62c6b6409c482f47dfc573956788ee6cd67ae8374b1",
+        "size_in_bytes": 207
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/static/305.d494201b822c1dfe7e5a.js",
+        "path_type": "hardlink",
+        "sha256": "d494201b822c1dfe7e5a61d62a0f01e716abeab59fa54feeb102fd7eb724b9bf",
+        "sha256_in_prefix": "d494201b822c1dfe7e5a61d62a0f01e716abeab59fa54feeb102fd7eb724b9bf",
+        "size_in_bytes": 6911
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/static/380.b5860d9c517548198b77.js",
+        "path_type": "hardlink",
+        "sha256": "b5860d9c517548198b77ed894615ff13a531ed18d97518ad2cf5bdd5347209f2",
+        "sha256_in_prefix": "b5860d9c517548198b77ed894615ff13a531ed18d97518ad2cf5bdd5347209f2",
+        "size_in_bytes": 6911
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/static/406.c8f76560a64780d746b2.js",
+        "path_type": "hardlink",
+        "sha256": "c8f76560a64780d746b2659dcc3e5ddc721a2634d5b772f9f95eef5fff96a709",
+        "sha256_in_prefix": "c8f76560a64780d746b2659dcc3e5ddc721a2634d5b772f9f95eef5fff96a709",
+        "size_in_bytes": 15498
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/static/4a772478a65263896de7.ttf",
+        "path_type": "hardlink",
+        "sha256": "4a772478a65263896de7c095ad3e9a1f4e873afb0e99a456432df22bbb6c6bf8",
+        "sha256_in_prefix": "4a772478a65263896de7c095ad3e9a1f4e873afb0e99a456432df22bbb6c6bf8",
+        "size_in_bytes": 797076
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/static/568.28b24309af35165d1195.js",
+        "path_type": "hardlink",
+        "sha256": "28b24309af35165d1195ef3f2dce577081cab49dd75e3d3b0fbcf783459352aa",
+        "sha256_in_prefix": "28b24309af35165d1195ef3f2dce577081cab49dd75e3d3b0fbcf783459352aa",
+        "size_in_bytes": 676
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/static/589.795710b6e24184cb0e10.js",
+        "path_type": "hardlink",
+        "sha256": "795710b6e24184cb0e10f6b9799a774cf4424f55ee9e063224f4a394c20db883",
+        "sha256_in_prefix": "795710b6e24184cb0e10f6b9799a774cf4424f55ee9e063224f4a394c20db883",
+        "size_in_bytes": 1619
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/static/763.05e5c3ada1348ef54eeb.js",
+        "path_type": "hardlink",
+        "sha256": "05e5c3ada1348ef54eeb7b651abce1ad974c846e7a9626d4fec8850ea2523436",
+        "sha256_in_prefix": "05e5c3ada1348ef54eeb7b651abce1ad974c846e7a9626d4fec8850ea2523436",
+        "size_in_bytes": 36057
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/static/97.20550629b214f3cbcabd.js",
+        "path_type": "hardlink",
+        "sha256": "25d469998d462ca2a956c1ece15ebb034ecab2ad779e59decc8505c59f66d8ee",
+        "sha256_in_prefix": "25d469998d462ca2a956c1ece15ebb034ecab2ad779e59decc8505c59f66d8ee",
+        "size_in_bytes": 53181
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/static/97.20550629b214f3cbcabd.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "3fde81f3ec5d08457c4db09b58cd4c68303b50c088755ebe32c53015aaa4c4f6",
+        "sha256_in_prefix": "3fde81f3ec5d08457c4db09b58cd4c68303b50c088755ebe32c53015aaa4c4f6",
+        "size_in_bytes": 186
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/static/remoteEntry.ec403c961f3e6d85e7bc.js",
+        "path_type": "hardlink",
+        "sha256": "ec403c961f3e6d85e7bcb58e65efaa2a7b2aec074384f76810f5afd87496a50f",
+        "sha256_in_prefix": "ec403c961f3e6d85e7bcb58e65efaa2a7b2aec074384f76810f5afd87496a50f",
+        "size_in_bytes": 8230
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/static/style.js",
+        "path_type": "hardlink",
+        "sha256": "45fb00332418ebabda13424932de6eaa51bc6fdc8ffb379777bb4983588ccd1e",
+        "sha256_in_prefix": "45fb00332418ebabda13424932de6eaa51bc6fdc8ffb379777bb4983588ccd1e",
+        "size_in_bytes": 167
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/share_notebook/static/third-party-licenses.json",
+        "path_type": "hardlink",
+        "sha256": "9aa43bf9710d9950646a0273c56efab9ddb71bb7db55f542626e8d8b041b5deb",
+        "sha256_in_prefix": "9aa43bf9710d9950646a0273c56efab9ddb71bb7db55f542626e8d8b041b5deb",
+        "size_in_bytes": 12814
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "dd501b7db308fed1af6118f8b92d0fdd30b3a48c18c80b3b2cb01fe303c6164f",
+  "size": 456021,
+  "subdir": "win-64",
+  "timestamp": 1717059593000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aext-share-notebook-4.0.15-py312haa95532_0.conda",
+  "version": "4.0.15"
+}

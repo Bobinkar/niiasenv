@@ -1,0 +1,144 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aext-shared 4.0.15",
+    "anaconda-cloud-auth",
+    "jupyterlab_server >=2.19.0,<3",
+    "pyjwt",
+    "python >=3.12,<3.13.0a0",
+    "requests",
+    "tornado"
+  ],
+  "extracted_package_dir": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-assistant-server-4.0.15-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/INSTALLER",
+    "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/METADATA",
+    "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/RECORD",
+    "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/REQUESTED",
+    "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/WHEEL",
+    "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/direct_url.json",
+    "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/licenses/LICENSE",
+    "Lib/site-packages/aext_assistant_server/__about__.py",
+    "Lib/site-packages/aext_assistant_server/__init__.py",
+    "Lib/site-packages/aext_assistant_server/__pycache__/__about__.cpython-312.pyc",
+    "Lib/site-packages/aext_assistant_server/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/aext_assistant_server/__pycache__/handlers.cpython-312.pyc",
+    "Lib/site-packages/aext_assistant_server/handlers.py",
+    ".nonadmin"
+  ],
+  "fn": "aext-assistant-server-4.0.15-py312haa95532_0.conda",
+  "license": "LicenseRef-Proprietary",
+  "link": {
+    "source": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-assistant-server-4.0.15-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "3f460c4e9026989576185875d2d469c9",
+  "name": "aext-assistant-server",
+  "package_tarball_full_path": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-assistant-server-4.0.15-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "b4cb8127f2b0a35d0ddb88a03a987da50df6b6bd511c420d6be85c3a2daa9592",
+        "sha256_in_prefix": "b4cb8127f2b0a35d0ddb88a03a987da50df6b6bd511c420d6be85c3a2daa9592",
+        "size_in_bytes": 956
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "9240b674ccffe86806379c046cb2678e74130785f7dc16ce811c0633854923f4",
+        "sha256_in_prefix": "9240b674ccffe86806379c046cb2678e74130785f7dc16ce811c0633854923f4",
+        "size_in_bytes": 1142
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "sha256_in_prefix": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "7db5095381a9502377c6535ca3555ff0108f2e0ad20d406f48214f5f897be3c8",
+        "sha256_in_prefix": "7db5095381a9502377c6535ca3555ff0108f2e0ad20d406f48214f5f897be3c8",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant_server-4.0.15.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "sha256_in_prefix": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant_server/__about__.py",
+        "path_type": "hardlink",
+        "sha256": "bfc97aaa57927539519a30ad75066d265a771c8a18bc7a38be5b79e5c1ee1783",
+        "sha256_in_prefix": "bfc97aaa57927539519a30ad75066d265a771c8a18bc7a38be5b79e5c1ee1783",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant_server/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a14616ff7254bd048bf3395930e05373238ef7856e3b87387bde29e039181f0c",
+        "sha256_in_prefix": "a14616ff7254bd048bf3395930e05373238ef7856e3b87387bde29e039181f0c",
+        "size_in_bytes": 111
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant_server/__pycache__/__about__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "43c1c5b07a57c560b04af409ffe48e745030a2ccea73a7b114a6816c94347d05",
+        "sha256_in_prefix": "43c1c5b07a57c560b04af409ffe48e745030a2ccea73a7b114a6816c94347d05",
+        "size_in_bytes": 176
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant_server/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "be3e987237a554482189ac3b5cbf025aa9ed3179b9439d20cb292883d4d3066d",
+        "sha256_in_prefix": "be3e987237a554482189ac3b5cbf025aa9ed3179b9439d20cb292883d4d3066d",
+        "size_in_bytes": 194
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant_server/__pycache__/handlers.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "99978c8fa6746ab26f31829cfedc09e6f15173fec8bfc7302c333ade36628333",
+        "sha256_in_prefix": "99978c8fa6746ab26f31829cfedc09e6f15173fec8bfc7302c333ade36628333",
+        "size_in_bytes": 18604
+      },
+      {
+        "_path": "Lib/site-packages/aext_assistant_server/handlers.py",
+        "path_type": "hardlink",
+        "sha256": "69a5a61475c12cfa3716006242fa730a77f1dc30929c1e9564e104cf527f2d93",
+        "sha256_in_prefix": "69a5a61475c12cfa3716006242fa730a77f1dc30929c1e9564e104cf527f2d93",
+        "size_in_bytes": 13720
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "15eafb49aa2507989b6994f1fc5dce45c7cfcf475b0b10e1a63ff9c9bb92f294",
+  "size": 21750,
+  "subdir": "win-64",
+  "timestamp": 1717060362000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aext-assistant-server-4.0.15-py312haa95532_0.conda",
+  "version": "4.0.15"
+}

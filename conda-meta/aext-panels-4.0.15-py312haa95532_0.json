@@ -1,0 +1,260 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aext-panels-server 4.0.15",
+    "jupyter_server >=2.0.1,<3",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-panels-4.0.15-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/aext_panels-4.0.15.dist-info/INSTALLER",
+    "Lib/site-packages/aext_panels-4.0.15.dist-info/METADATA",
+    "Lib/site-packages/aext_panels-4.0.15.dist-info/RECORD",
+    "Lib/site-packages/aext_panels-4.0.15.dist-info/REQUESTED",
+    "Lib/site-packages/aext_panels-4.0.15.dist-info/WHEEL",
+    "Lib/site-packages/aext_panels-4.0.15.dist-info/direct_url.json",
+    "Lib/site-packages/aext_panels-4.0.15.dist-info/licenses/LICENSE",
+    "Lib/site-packages/aext_panels/__init__.py",
+    "Lib/site-packages/aext_panels/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/aext_panels/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/aext_panels/_version.py",
+    "Lib/site-packages/aext_panels/schema/plugin.json",
+    "etc/jupyter/jupyter_notebook_config.d/aext_panels.json",
+    "etc/jupyter/jupyter_server_config.d/aext_panels.json",
+    "share/jupyter/labextensions/@anaconda/panels/install.json",
+    "share/jupyter/labextensions/@anaconda/panels/package.json",
+    "share/jupyter/labextensions/@anaconda/panels/schemas/@anaconda/panels/package.json.orig",
+    "share/jupyter/labextensions/@anaconda/panels/schemas/@anaconda/panels/plugin.json",
+    "share/jupyter/labextensions/@anaconda/panels/static/313.2110a2d97befd97bb594.js",
+    "share/jupyter/labextensions/@anaconda/panels/static/406.14fc5939d3e2a915d735.js",
+    "share/jupyter/labextensions/@anaconda/panels/static/528.8042ee0202e160c252b8.js",
+    "share/jupyter/labextensions/@anaconda/panels/static/568.9845ab19ad9fbfad1fc8.js",
+    "share/jupyter/labextensions/@anaconda/panels/static/589.99854bef0b61490d36f1.js",
+    "share/jupyter/labextensions/@anaconda/panels/static/630.d7b6a30e4d598c4145e1.js",
+    "share/jupyter/labextensions/@anaconda/panels/static/630.d7b6a30e4d598c4145e1.js.LICENSE.txt",
+    "share/jupyter/labextensions/@anaconda/panels/static/remoteEntry.3318e43690692165b5ed.js",
+    "share/jupyter/labextensions/@anaconda/panels/static/style.js",
+    "share/jupyter/labextensions/@anaconda/panels/static/third-party-licenses.json",
+    ".nonadmin"
+  ],
+  "fn": "aext-panels-4.0.15-py312haa95532_0.conda",
+  "license": "LicenseRef-Proprietary",
+  "link": {
+    "source": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-panels-4.0.15-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "7bc2b9d39cf15f1b6dced487ebe9e9b6",
+  "name": "aext-panels",
+  "package_tarball_full_path": "C:\\Users\\sanme\\annaconda\\pkgs\\aext-panels-4.0.15-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/aext_panels-4.0.15.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels-4.0.15.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "a0d5158b958e1422a21ed5bc2c14564af371e7387b126125e67b2c235e104146",
+        "sha256_in_prefix": "a0d5158b958e1422a21ed5bc2c14564af371e7387b126125e67b2c235e104146",
+        "size_in_bytes": 4333
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels-4.0.15.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "5fee44a85bf3a5371a1f188c6a1166902f83c33b98965e3e402e8c8f45afc034",
+        "sha256_in_prefix": "5fee44a85bf3a5371a1f188c6a1166902f83c33b98965e3e402e8c8f45afc034",
+        "size_in_bytes": 3164
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels-4.0.15.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels-4.0.15.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "sha256_in_prefix": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels-4.0.15.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "b433f7faa2b2ea2b04b4ea1c337b9089472b43e852367b1a32b2b3e71491f0e6",
+        "sha256_in_prefix": "b433f7faa2b2ea2b04b4ea1c337b9089472b43e852367b1a32b2b3e71491f0e6",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels-4.0.15.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "sha256_in_prefix": "281e899162ba11a8ff6b34e48475f45785b1965f97d24f2328ca61d5fde8d4f3",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a24a5d2594f60144f72d68e40edd465ef04a01bc7379295256bb18eefcd0e9a3",
+        "sha256_in_prefix": "a24a5d2594f60144f72d68e40edd465ef04a01bc7379295256bb18eefcd0e9a3",
+        "size_in_bytes": 591
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "b9aea6a5de6f90a0ae8352b11b82ae9d337769d696968dc3ade80c26278f0e28",
+        "sha256_in_prefix": "b9aea6a5de6f90a0ae8352b11b82ae9d337769d696968dc3ade80c26278f0e28",
+        "size_in_bytes": 1138
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels/__pycache__/_version.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "f38b977b07a7eaaa4dd4dbd430619f978eb8e291e1a7fcd666216edcb0c025d2",
+        "sha256_in_prefix": "f38b977b07a7eaaa4dd4dbd430619f978eb8e291e1a7fcd666216edcb0c025d2",
+        "size_in_bytes": 185
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels/_version.py",
+        "path_type": "hardlink",
+        "sha256": "0e6a4e5f1801a74d2d7b2a98f7cbd5adffc1a4c57eeefd50fa717e4a1152a4d1",
+        "sha256_in_prefix": "0e6a4e5f1801a74d2d7b2a98f7cbd5adffc1a4c57eeefd50fa717e4a1152a4d1",
+        "size_in_bytes": 176
+      },
+      {
+        "_path": "Lib/site-packages/aext_panels/schema/plugin.json",
+        "path_type": "hardlink",
+        "sha256": "5adc45894fdaa6a33bd2d11ee97175f1175732a241c8469d6cb83f75134e9417",
+        "sha256_in_prefix": "5adc45894fdaa6a33bd2d11ee97175f1175732a241c8469d6cb83f75134e9417",
+        "size_in_bytes": 199
+      },
+      {
+        "_path": "etc/jupyter/jupyter_notebook_config.d/aext_panels.json",
+        "path_type": "hardlink",
+        "sha256": "c09179a0365fccb8ca077f097c93cab09eb2cece540914eb872937221f9adb09",
+        "sha256_in_prefix": "c09179a0365fccb8ca077f097c93cab09eb2cece540914eb872937221f9adb09",
+        "size_in_bytes": 88
+      },
+      {
+        "_path": "etc/jupyter/jupyter_server_config.d/aext_panels.json",
+        "path_type": "hardlink",
+        "sha256": "d4efd3571fbd02cbb380540675dbf82d3c1963b9a9d4e6ca39b250fcdc7b36b2",
+        "sha256_in_prefix": "d4efd3571fbd02cbb380540675dbf82d3c1963b9a9d4e6ca39b250fcdc7b36b2",
+        "size_in_bytes": 86
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/install.json",
+        "path_type": "hardlink",
+        "sha256": "ef7fb5715fbb3f22ce633b141910b9719af646d01d3184a5417ca84e24d84919",
+        "sha256_in_prefix": "ef7fb5715fbb3f22ce633b141910b9719af646d01d3184a5417ca84e24d84919",
+        "size_in_bytes": 183
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/package.json",
+        "path_type": "hardlink",
+        "sha256": "597451ff1475becbc3a1e3d75fabf63dd97d72424c2a5455458fdb6c150ec919",
+        "sha256_in_prefix": "597451ff1475becbc3a1e3d75fabf63dd97d72424c2a5455458fdb6c150ec919",
+        "size_in_bytes": 5361
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/schemas/@anaconda/panels/package.json.orig",
+        "path_type": "hardlink",
+        "sha256": "923c702bb68ac1cef800d02b5e16a84d2f75f17f1f57c0120e8439d494279120",
+        "sha256_in_prefix": "923c702bb68ac1cef800d02b5e16a84d2f75f17f1f57c0120e8439d494279120",
+        "size_in_bytes": 5219
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/schemas/@anaconda/panels/plugin.json",
+        "path_type": "hardlink",
+        "sha256": "5adc45894fdaa6a33bd2d11ee97175f1175732a241c8469d6cb83f75134e9417",
+        "sha256_in_prefix": "5adc45894fdaa6a33bd2d11ee97175f1175732a241c8469d6cb83f75134e9417",
+        "size_in_bytes": 199
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/static/313.2110a2d97befd97bb594.js",
+        "path_type": "hardlink",
+        "sha256": "2110a2d97befd97bb5945db3a3c71376a1025cf32d0efc233c99cbe919ab9ab8",
+        "sha256_in_prefix": "2110a2d97befd97bb5945db3a3c71376a1025cf32d0efc233c99cbe919ab9ab8",
+        "size_in_bytes": 751361
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/static/406.14fc5939d3e2a915d735.js",
+        "path_type": "hardlink",
+        "sha256": "14fc5939d3e2a915d7355e9d7bb637c54fd2e18cde4b4e6d5198183f3d4a04af",
+        "sha256_in_prefix": "14fc5939d3e2a915d7355e9d7bb637c54fd2e18cde4b4e6d5198183f3d4a04af",
+        "size_in_bytes": 15482
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/static/528.8042ee0202e160c252b8.js",
+        "path_type": "hardlink",
+        "sha256": "8042ee0202e160c252b8b8788a531d1d01f6852dd1d9b7a361ad24ac26d5972a",
+        "sha256_in_prefix": "8042ee0202e160c252b8b8788a531d1d01f6852dd1d9b7a361ad24ac26d5972a",
+        "size_in_bytes": 51120
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/static/568.9845ab19ad9fbfad1fc8.js",
+        "path_type": "hardlink",
+        "sha256": "9845ab19ad9fbfad1fc817b777da9a834495245888c0569faddeef7d81a0a548",
+        "sha256_in_prefix": "9845ab19ad9fbfad1fc817b777da9a834495245888c0569faddeef7d81a0a548",
+        "size_in_bytes": 647
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/static/589.99854bef0b61490d36f1.js",
+        "path_type": "hardlink",
+        "sha256": "99854bef0b61490d36f1601e155e68e649dd4ff74737565dedb3a4249871d809",
+        "sha256_in_prefix": "99854bef0b61490d36f1601e155e68e649dd4ff74737565dedb3a4249871d809",
+        "size_in_bytes": 1603
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/static/630.d7b6a30e4d598c4145e1.js",
+        "path_type": "hardlink",
+        "sha256": "a1b8f44fc92e18ae4c5ad92931b8b14cb3d636c4cf53cbe023b752bb839fcb8b",
+        "sha256_in_prefix": "a1b8f44fc92e18ae4c5ad92931b8b14cb3d636c4cf53cbe023b752bb839fcb8b",
+        "size_in_bytes": 1771028
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/static/630.d7b6a30e4d598c4145e1.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "780f357311cf4857598d8ef2eff3557f23e6aa66b8a64abc59bca032d9ad1ecd",
+        "sha256_in_prefix": "780f357311cf4857598d8ef2eff3557f23e6aa66b8a64abc59bca032d9ad1ecd",
+        "size_in_bytes": 1975
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/static/remoteEntry.3318e43690692165b5ed.js",
+        "path_type": "hardlink",
+        "sha256": "3318e43690692165b5edccffcc3a076be3f789fd7e5361dd3c1f5e1392ec978f",
+        "sha256_in_prefix": "3318e43690692165b5edccffcc3a076be3f789fd7e5361dd3c1f5e1392ec978f",
+        "size_in_bytes": 8235
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/static/style.js",
+        "path_type": "hardlink",
+        "sha256": "efd9622f7190fbb2ca8112d5b6b5d4abbbb0c67b0eb92a547635bd1e3451e659",
+        "sha256_in_prefix": "efd9622f7190fbb2ca8112d5b6b5d4abbbb0c67b0eb92a547635bd1e3451e659",
+        "size_in_bytes": 159
+      },
+      {
+        "_path": "share/jupyter/labextensions/@anaconda/panels/static/third-party-licenses.json",
+        "path_type": "hardlink",
+        "sha256": "fadf4a8fc07052aeebbb1443e585a98278ad756db3453224ec558d2ba810c2df",
+        "sha256_in_prefix": "fadf4a8fc07052aeebbb1443e585a98278ad756db3453224ec558d2ba810c2df",
+        "size_in_bytes": 40902
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8a3afd7fb009ea54d64c3cdaaa4ffb25583db500d2a0036f072187516bfe93cd",
+  "size": 510157,
+  "subdir": "win-64",
+  "timestamp": 1717062482000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aext-panels-4.0.15-py312haa95532_0.conda",
+  "version": "4.0.15"
+}
