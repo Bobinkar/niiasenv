@@ -26,12 +26,13 @@
   В случае, если будет ошибка и страница не выведется - скопируйте из терминала одну из двух ссылок и перейдите по ней. Ниже приведен пример ссылки.
 
   
-  ![alt text](https://disk.yandex.ru/i/5WRkVtWqJDDMrQ)
+  ![alt text](img/юпитер.png)
 
      http://localhost:8888/tree?token=06498a3d860718b6fcdb4c0f2499c7f30951923b6887c287
   
 <li>Откройте и запустите файл "main.ipynb"</li>
 
+![alt text](img/image_2024-10-13_04-51-37.png)
 
 
 
